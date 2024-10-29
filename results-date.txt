@@ -1,0 +1,113 @@
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Date    Loadfactor: 0.5
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 47896
+	Inserted 47896 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.28
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 47896
+	Inserted 47896 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.38
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Date    Loadfactor: 0.6
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 57475
+	Inserted 57475 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.44
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 57475
+	Inserted 57475 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.67
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Date    Loadfactor: 0.7
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 67054
+	Inserted 67054 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.60
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 67054
+	Inserted 67054 elements, of which 0 were duplicates
+	Avg. no. of probes = 2.03
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Date    Loadfactor: 0.8
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 76633
+	Inserted 76633 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.82
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 76633
+	Inserted 76633 elements, of which 0 were duplicates
+	Avg. no. of probes = 2.47
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Date    Loadfactor: 0.9
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 86212
+	Inserted 86212 elements, of which 0 were duplicates
+	Avg. no. of probes = 2.18
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 86212
+	Inserted 86212 elements, of which 0 were duplicates
+	Avg. no. of probes = 3.10
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Date    Loadfactor: 0.95
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 91002
+	Inserted 91002 elements, of which 0 were duplicates
+	Avg. no. of probes = 2.70
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 91002
+	Inserted 91002 elements, of which 0 were duplicates
+	Avg. no. of probes = 3.95
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Date    Loadfactor: 0.99
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 94834
+	Inserted 94834 elements, of which 0 were duplicates
+	Avg. no. of probes = 5.41
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 94834
+	Inserted 94834 elements, of which 0 were duplicates
+	Avg. no. of probes = 5.28
+
+--------------------------------------------------------------------------------
+
